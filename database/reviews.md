@@ -1,0 +1,6 @@
+- ID
+- UserID
+- BookID
+- ReviewText
+- Timestamp
+- Ranking

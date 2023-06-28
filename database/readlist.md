@@ -1,0 +1,4 @@
+- ID
+- UserID
+- BookID
+- Timestamp
