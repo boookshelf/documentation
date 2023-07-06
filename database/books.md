@@ -8,7 +8,7 @@
     "ISBN_13": "String",
     "Publisher": "String",
     "Language": "String",
-    "DatePublished": "Timestamp",
+    "DatePublished": "Date",
     "Edition": "String",
     "Pages": "Integer",
     "Image": "String",
