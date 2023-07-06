@@ -5,7 +5,7 @@
     "_id": "UUID",
     "_userID": "UUID",
     "_bookID": "UUID",
-    "timestamp": "Timestamp",
+    "entryDate": "Date",
     "rating": "Int32"
 }
 ```
